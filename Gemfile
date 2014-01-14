@@ -44,7 +44,7 @@ end
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-gem 'send_zip', path: '/Users/misaki/Project/send_zip'
+gem 'send_zip'
 
 # WEBrick is not compatible with HTTP Streaming. Use puma, unicorn, thin, etc.
 gem 'puma'
